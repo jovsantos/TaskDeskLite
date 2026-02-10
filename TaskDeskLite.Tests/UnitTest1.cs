@@ -1,11 +1,13 @@
-﻿namespace TaskDeskLite.Tests
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace TaskDeskLite.Tests
 {
     public class UnitTest1
     {
-        [Fact]
+        [Fact(DisplayName = "" )]
         public void Test1()
         {
-
+            
         }
     }
 }
