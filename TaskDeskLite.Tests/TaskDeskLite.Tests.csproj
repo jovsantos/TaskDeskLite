@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TaskDeskLite.Core\TaskDeskLite.Core.csproj" />
     <ProjectReference Include="..\TaskDeskLite\TaskDeskLite.csproj" />
   </ItemGroup>
 
